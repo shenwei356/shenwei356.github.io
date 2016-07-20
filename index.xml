@@ -8,84 +8,7 @@
     <language>en-us</language>
     <managingEditor>shenwei356@gmail.com (shenwei356)</managingEditor>
     <webMaster>shenwei356@gmail.com (shenwei356)</webMaster>
-    <lastBuildDate>Thu, 03 Dec 2015 12:42:58 +0800</lastBuildDate>
     <atom:link href="http://bioinf.shenwei.me/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Bioinformatics</title>
-      <link>http://bioinf.shenwei.me/bioinf/</link>
-      <pubDate>Thu, 03 Dec 2015 12:42:58 +0800</pubDate>
-      <author>shenwei356@gmail.com (shenwei356)</author>
-      <guid>http://bioinf.shenwei.me/bioinf/</guid>
-      <description>
-
-&lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Project&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Introduction&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://bioinf.shenwei.me/fommir&#34; target=&#34;_blank&#34;&gt;FOMmiR&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;MicroRNA Prediction Using a Fixed-Order Markov Model Based on the Secondary Structure Pattern&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://yanlilab.github.io/fastcov&#34; target=&#34;_blank&#34;&gt;fastcov&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Fast Multiple Covariance Detector&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://shenwei356.github.io/fakit&#34; target=&#34;_blank&#34;&gt;fakit&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A cross-platform and efficient toolkit for FASTA/Q file manipulation&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/gtaxon&#34; target=&#34;_blank&#34;&gt;gTaxon&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A fast cross-platform NCBI taxonomy data querying tool, with cmd client and REST API server for both local and remote server&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/bio_scripts&#34; target=&#34;_blank&#34;&gt;bio_scripts&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Practical, reusable scripts for bioinformatics&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&#34;other-utilities&#34;&gt;Other utilities&lt;/h3&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Project&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Introduction&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/csvtk&#34; target=&#34;_blank&#34;&gt;csvtk&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Another cross-platform, efficient and practical CSV/TSV Toolkit&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/easy_qsub&#34; target=&#34;_blank&#34;&gt;easy_qsub&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Easily submitting multiple PBS jobs or running local jobs in parallel&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/crun&#34; target=&#34;_blank&#34;&gt;crun&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Run workflow mixed with concurrent and sequential jobs&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-    </item>
     
     <item>
       <title>About</title>
@@ -145,7 +68,7 @@
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/csvtk&#34; target=&#34;_blank&#34;&gt;csvtk&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://shenwei356.github.io/csvtk&#34; target=&#34;_blank&#34;&gt;csvtk&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Another cross-platform, efficient and practical CSV/TSV Toolkit&lt;/td&gt;
 &lt;/tr&gt;
 
