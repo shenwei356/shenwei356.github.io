@@ -1,6 +1,6 @@
 Project	Introduction
 <a href="http://bioinf.shenwei.me/fommir" target="_blank">FOMmiR</a>	MicroRNA Prediction Using a Fixed-Order Markov Model Based on the Secondary Structure Pattern 
 <a href="http://yanlilab.github.io/fastcov" target="_blank">fastcov</a>	Fast Multiple Covariance Detector
-<a href="http://shenwei356.github.io/fakit" target="_blank">fakit</a>	A cross-platform and efficient toolkit for FASTA/Q file manipulation
+<a href="http://shenwei356.github.io/seqkit" target="_blank">seqkit</a>	A cross-platform and efficient toolkit for FASTA/Q file manipulation
 <a href="https://github.com/shenwei356/gtaxon" target="_blank">gTaxon</a>	A fast cross-platform NCBI taxonomy data querying tool, with cmd client and REST API server for both local and remote server
 <a href="https://github.com/shenwei356/bio_scripts" target="_blank">bio_scripts</a>	Practical, reusable scripts for bioinformatics
