@@ -31,6 +31,10 @@
 
   <url>
     <loc>http://bioinf.shenwei.me/seqkit/benchmark/</loc>
+  </url>
+  
+  <url>
+    <loc>http://bioinf.shenwei.me/seqkit/note/</loc>
   </url>  
   
   <url>
@@ -47,6 +51,19 @@
 
   <url>
     <loc>http://bioinf.shenwei.me/csvtk/tutorial/</loc>
+  </url>
+  
+    
+  <url>
+    <loc>http://bioinf.shenwei.me/taxonkit/</loc>
+  </url>
+
+  <url>
+    <loc>http://bioinf.shenwei.me/taxonkit/usage/</loc>
+  </url>
+
+  <url>
+    <loc>http://bioinf.shenwei.me/taxonkit/download/</loc>
   </url>
   
 </urlset>

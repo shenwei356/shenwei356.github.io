@@ -45,6 +45,11 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://bioinf.shenwei.me/taxonkit&#34; target=&#34;_blank&#34;&gt;TaxonKit&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;A cross-platform and Efficient NCBI Taxonomy Toolkit&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/gtaxon&#34; target=&#34;_blank&#34;&gt;gTaxon&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;A fast cross-platform NCBI taxonomy data querying tool, with cmd client and REST API server for both local and remote server&lt;/td&gt;
 &lt;/tr&gt;
