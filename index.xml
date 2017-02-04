@@ -18,7 +18,7 @@
       <guid>http://bioinf.shenwei.me/about/</guid>
       <description>
 
-&lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;
+&lt;h3 id=&#34;bioinformatics&#34;&gt;Bioinformatics&lt;/h3&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -68,7 +68,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&#34;other-utilities&#34;&gt;Other utilities&lt;/h3&gt;
+&lt;h3 id=&#34;utilities&#34;&gt;Utilities&lt;/h3&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -96,12 +96,6 @@
 &lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/easy_qsub&#34; target=&#34;_blank&#34;&gt;easy_qsub&lt;/a&gt;&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Easily submitting multiple PBS jobs or running local jobs in parallel&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Python/Linux,OS X&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/crun&#34; target=&#34;_blank&#34;&gt;crun&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Run workflow mixed with concurrent and sequential jobs&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Perl/Linux,OS X,Windows&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
