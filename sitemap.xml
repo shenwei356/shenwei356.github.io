@@ -1,69 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://bioinf.shenwei.me/</loc>
-  </url>
-  
-  <url>
-    <loc>http://bioinf.shenwei.me/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://blog.shenwei.me/</loc>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2016-05-02T18:21:02+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://bioinf.shenwei.me/seqkit/</loc>
-  </url>
-
-  <url>
-    <loc>http://bioinf.shenwei.me/seqkit/usage/</loc>
-  </url>
-
-  <url>
-    <loc>http://bioinf.shenwei.me/seqkit/download/</loc>
-  </url>
-
-  <url>
-    <loc>http://bioinf.shenwei.me/seqkit/tutorial/</loc>
-  </url>
-
-  <url>
-    <loc>http://bioinf.shenwei.me/seqkit/benchmark/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://bioinf.shenwei.me/seqkit/note/</loc>
-  </url>  
-  
-  <url>
-    <loc>http://bioinf.shenwei.me/csvtk/</loc>
-  </url>
-
-  <url>
-    <loc>http://bioinf.shenwei.me/csvtk/usage/</loc>
-  </url>
-
-  <url>
-    <loc>http://bioinf.shenwei.me/csvtk/download/</loc>
-  </url>
-
-  <url>
-    <loc>http://bioinf.shenwei.me/csvtk/tutorial/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <priority>0</priority>
   </url>
   
-    
   <url>
-    <loc>http://bioinf.shenwei.me/taxonkit/</loc>
-  </url>
-
-  <url>
-    <loc>http://bioinf.shenwei.me/taxonkit/usage/</loc>
-  </url>
-
-  <url>
-    <loc>http://bioinf.shenwei.me/taxonkit/download/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2016-05-02T18:21:02+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

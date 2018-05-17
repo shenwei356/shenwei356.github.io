@@ -2,106 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wei Shen&#39;s Bioinformatic tools</title>
-    <link>http://bioinf.shenwei.me/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Wei Shen&#39;s Bioinformatic tools</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>shenwei356@gmail.com (shenwei356)</managingEditor>
-    <webMaster>shenwei356@gmail.com (shenwei356)</webMaster>
-    <atom:link href="http://bioinf.shenwei.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2016 18:21:02 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>About</title>
-      <link>http://bioinf.shenwei.me/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>shenwei356@gmail.com (shenwei356)</author>
-      <guid>http://bioinf.shenwei.me/about/</guid>
-      <description>
-
-&lt;h3 id=&#34;bioinformatics&#34;&gt;Bioinformatics&lt;/h3&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Project&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Introduction&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Language/Platform&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://bioinf.shenwei.me/fommir&#34; target=&#34;_blank&#34;&gt;FOMmiR&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;MicroRNA Prediction Using a Fixed-Order Markov Model Based on the Secondary Structure Pattern&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Perl/Web server&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://yanlilab.github.io/fastcov&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;fastcov&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Fast Multiple Covariance Detector&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Go/Linux,OS X,Windows&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://bioinf.shenwei.me/seqkit&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;SeqKit&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A cross-platform and ultrafast toolkit for FASTA/Q file manipulation&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Go/Linux,OS X,Windows&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://bioinf.shenwei.me/taxonkit&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;TaxonKit&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A cross-platform and Efficient NCBI Taxonomy Toolkit&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Go/Linux,OS X,Windows&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/gtaxon&#34; target=&#34;_blank&#34;&gt;gTaxon&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;A fast cross-platform NCBI taxonomy data querying tool, with cmd client and REST API server for both local and remote server&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Go/Linux,OS X,Windows&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/bio_scripts&#34; target=&#34;_blank&#34;&gt;bio_scripts&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Practical, reusable scripts for bioinformatics&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Perl/Linux,OS X,Windows&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&#34;utilities&#34;&gt;Utilities&lt;/h3&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Project&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Introduction&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Language/Platform&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://bioinf.shenwei.me/csvtk&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;csvtk&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Another cross-platform, efficient and practical CSV/TSV Toolkit&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Go/Linux,OS X,Windows&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/rush&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;rush&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Parallelly execute shell commands. A GNU parallel like tool in Go&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Go/Linux,OS X,Windows&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;https://github.com/shenwei356/easy_qsub&#34; target=&#34;_blank&#34;&gt;easy_qsub&lt;/a&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Easily submitting multiple PBS jobs or running local jobs in parallel&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Python/Linux,OS X&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;More on &lt;a href=&#34;https://github.com/shenwei356/&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>xxx</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 02 May 2016 18:21:02 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Bioinformatics    Project Introduction Language/Platform     FOMmiR MicroRNA Prediction Using a Fixed-Order Markov Model Based on the Secondary Structure Pattern Perl/Web server   fastcov Fast Multiple Covariance Detector Go/Linux,OS X,Windows   SeqKit A cross-platform and ultrafast toolkit for FASTA/Q file manipulation Go/Linux,OS X,Windows   TaxonKit A cross-platform and Efficient NCBI Taxonomy Toolkit Go/Linux,OS X,Windows   gTaxon A fast cross-platform NCBI taxonomy data querying tool, with cmd client and REST API server for both local and remote server Go/Linux,OS X,Windows   bio_scripts Practical, reusable scripts for bioinformatics Perl/Linux,OS X,Windows    Utilities    Project Introduction Language/Platform     csvtk Another cross-platform, efficient and practical CSV/TSV Toolkit Go/Linux,OS X,Windows   rush Parallelly execute shell commands.</description>
     </item>
     
   </channel>
