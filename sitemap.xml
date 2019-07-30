@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bioinf.shenwei.me/</loc>
+    <lastmod>2016-05-02T18:21:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://bioinf.shenwei.me/about/</loc>
     <lastmod>2016-05-02T18:21:02+08:00</lastmod>
   </url>
@@ -14,12 +20,6 @@
   
   <url>
     <loc>https://bioinf.shenwei.me/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bioinf.shenwei.me/</loc>
-    <lastmod>2016-05-02T18:21:02+08:00</lastmod>
     <priority>0</priority>
   </url>
   
