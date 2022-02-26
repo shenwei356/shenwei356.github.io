@@ -1,22 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wei Shen&#39;s Bioinformatic tools</title>
     <link>https://bioinf.shenwei.me/</link>
     <description>Recent content on Wei Shen&#39;s Bioinformatic tools</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 May 2016 18:21:02 +0800</lastBuildDate>
-    
-	<atom:link href="https://bioinf.shenwei.me/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://bioinf.shenwei.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>xxx</title>
       <link>https://bioinf.shenwei.me/about/</link>
       <pubDate>Mon, 02 May 2016 18:21:02 +0800</pubDate>
       
       <guid>https://bioinf.shenwei.me/about/</guid>
-      <description>Bioinformatics    Project Introduction Language/Platform     FOMmiR MicroRNA Prediction Using a Fixed-Order Markov Model Based on the Secondary Structure Pattern Perl/Web server   fastcov Fast Multiple Covariance Detector Go/Linux,OS X,Windows   SeqKit A cross-platform and ultrafast toolkit for FASTA/Q file manipulation Go/Linux,OS X,Windows   TaxonKit A cross-platform and Efficient NCBI Taxonomy Toolkit Go/Linux,OS X,Windows   gTaxon A fast cross-platform NCBI taxonomy data querying tool, with cmd client and REST API server for both local and remote server Go/Linux,OS X,Windows   bio_scripts Practical, reusable scripts for bioinformatics Perl/Linux,OS X,Windows    Utilities    Project Introduction Language/Platform     csvtk Another cross-platform, efficient and practical CSV/TSV Toolkit Go/Linux,OS X,Windows   rush Parallelly execute shell commands.</description>
+      <description>Bioinformatics    Project Introduction Language/Platform     FOMmiR MicroRNA Prediction Using a Fixed-Order Markov Model Based on the Secondary Structure Pattern Perl/Web server   fastcov Fast Multiple Covariance Detector Go/Linux,OS X,Windows   SeqKit A cross-platform and ultrafast toolkit for FASTA/Q file manipulation Go/Linux,OS X,Windows   TaxonKit A cross-platform and Efficient NCBI Taxonomy Toolkit Go/Linux,OS X,Windows   gTaxon A fast cross-platform NCBI taxonomy data querying tool, with cmd client and REST API server for both local and remote server Go/Linux,OS X,Windows   bio_scripts Practical, reusable scripts for bioinformatics Perl/Linux,OS X,Windows   KMCP Accurate metagenomic profiling &amp;amp;&amp;amp; Fast large-scale sequence/genome searching     Utilities    Project Introduction Language/Platform     csvtk Another cross-platform, efficient and practical CSV/TSV Toolkit Go/Linux,OS X,Windows   rush Parallelly execute shell commands.</description>
     </item>
     
   </channel>
